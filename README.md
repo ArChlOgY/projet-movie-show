@@ -6,7 +6,7 @@ Language : PHP - HTML - CSS
 Base de donnée : Non
 
 - [x] Créer une interface responsive HTML/CSS (Bootstrap)
-- [x] Récupérer les données film/serie et construire un tableau PHP multidimensionnel
+- [x] Récupérer les données films/series et construire un tableau PHP multidimensionnel
 - [x] Afficher les données des films/series sur le site
 - [ ] Récupérer les données automatiquement
 - [ ] Stocker les données dans une base de donnée
