@@ -21,4 +21,4 @@ https://foreach.alwaysdata.net/projet-movie-show/
 
 ## FLIP CARD - MOUSEOVER (screenshot)
 
-![Flip Card](/assets/screen/02.error.jpg)
+![Flip Card](/assets/screen/02.flip_on_mouseover.jpg)
