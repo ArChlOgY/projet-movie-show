@@ -1,5 +1,5 @@
 # projet-movie-show
-Afficher une liste de film/serie depuis les information récupérées sur le site Allocine, construire un tableau PHP multidimensionnel puis afficher les résultats
+Afficher une liste de films/series depuis les informations récupérées sur le site Allocine, construire un tableau PHP multidimensionnel puis afficher les résultats
 
 Language : PHP - HTML - CSS
 
